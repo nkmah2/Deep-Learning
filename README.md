@@ -22,7 +22,7 @@ You will work on case studies from healthcare, autonomous driving, sign language
 
 After finishing this specialization, you will likely find creative ways to apply it to your work. We will help you master Deep Learning, understand how to apply it, and build a career in AI. 
 
-[a relative link](/Digit Recognition MINST Dataset CNN.ipynb)
+[a relative link]("/Digit Recognition MINST Dataset CNN.ipynb")
 
 
 ## Material
