@@ -1,8 +1,11 @@
-# Deep Learning Specialization
+# Convolutional Neural Network
 
-This repo contains my solution to the 5-course Coursera Deep Learning Specialization created by prof. Andrew Ng and [deeplearning.ai](https://www.deeplearning.ai) incorporation in 2017-2018 which can be found [here](https://www.coursera.org/specializations/deep-learning). 
+This repo contains solutions adapated from the following resorces:
 
-In this repo you can find:
+- Deep Learning my solution to the 5-course Coursera Deep Learning Specialization created by prof. Andrew Ng and [deeplearning.ai](https://www.deeplearning.ai) incorporation in 2017-2018 which can be found [here](https://www.coursera.org/specializations/deep-learning). 
+
+List of projects:
+- <a href="https://github.com/nkmah2/Convolutional-Neural-Networks/blob/master/Digit%20Recognition%20MINST%20Dataset%20CNN.ipynb" title="About Me">Digit Recognition - MINST Dataset</a>
 
 - Slides of the whole specialization (except the fifth course).
 - Readings and papers provided inside the course.
