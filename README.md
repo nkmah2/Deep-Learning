@@ -3,8 +3,8 @@
 ## This repo contains projects using ConvNets: 
 
 ## List of projects:
-- <a href="https://github.com/nkmah2/Convolutional-Neural-Networks/blob/master/Digit%20Recognition%20MINST%20Dataset%20CNN.ipynb" title="About Me">Digit Recognition - MINST Dataset</a>
-- <a href="https://github.com/nkmah2/Convolutional-Neural-Networks/blob/master/Digit%20Recognition%20MINST%20Dataset%20CNN.ipynb" title="About Me">Cats vs Dog Classification using Data Augmentaion and Dropout.</a> 
+- <a href="https://github.com/nkmah2/Convolutional-Neural-Networks/blob/master/Digit%20Recognition%20MINST%20Dataset%20CNN.ipynb">Digit Recognition - MINST Dataset</a>
+- <a href="https://github.com/nkmah2/Convolutional-Neural-Networks/blob/master/Dogs-vs-Cats-classification-CNN.ipynb">Dog vs. Cats Classification using Data Augmentaion and Dropout.</a> 
 
 
 #### Data and code in this repository were adapted from the following resources:
@@ -12,7 +12,7 @@
 - Deep Learning with Python - Francois Cholet
 - Deep Learning Specialization Coursera - Andrew Ng
 - Kaggle Competitions
-- 
+
 
 
 
