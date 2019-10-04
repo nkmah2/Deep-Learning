@@ -7,6 +7,8 @@ This repo contains projectc using ConvNets adapated from the following resorces:
 
 ## List of projects:
 - <a href="https://github.com/nkmah2/Convolutional-Neural-Networks/blob/master/Digit%20Recognition%20MINST%20Dataset%20CNN.ipynb" title="About Me">Digit Recognition - MINST Dataset</a>
+- <a href="https://github.com/nkmah2/Convolutional-Neural-Networks/blob/master/Digit%20Recognition%20MINST%20Dataset%20CNN.ipynb" title="About Me">Cats vs Dog Classification using Data Augmentaion and Dropout.</a> Data from Kaggle
+
 
 - Slides of the whole specialization (except the fifth course).
 - Readings and papers provided inside the course.
