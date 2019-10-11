@@ -1,8 +1,8 @@
-# Convolutional Neural Network
+## Convolutional Neural Networks
 
-## This repo contains projects using ConvNets: 
+### This repo contains projects using ConvNets: 
 
-## List of projects:
+### List of projects:
 - <a href="https://github.com/nkmah2/Convolutional-Neural-Networks/blob/master/Digit%20Recognition%20MINST%20Dataset%20CNN.ipynb">Digit Recognition - MINST Dataset</a>
 - <a href="https://github.com/nkmah2/Convolutional-Neural-Networks/blob/master/Dogs-vs-Cats-classification-CNN.ipynb">Dog vs. Cats Classification (Small Dataset) using Data Augmentaion and Dropout</a> 
 - <a href="https://github.com/nkmah2/Convolutional-Neural-Networks/blob/master/Dogs-vs-Cats-classification-CNN-VGG16-Features.ipynb">Dog vs. Cats Classification (Small Dataset) - Extracting Features of a Pretrained Network (VGG16)</a> 
