@@ -8,7 +8,7 @@
 - <a href="https://github.com/nkmah2/Convolutional-Neural-Networks/blob/master/Dogs-vs-Cats-classification-CNN-VGG16-Features.ipynb">Dog vs. Cats Classification (Small Dataset) - Extracting Features of a Pretrained Network (VGG16)</a> 
 - <a href="https://github.com/nkmah2/Convolutional-Neural-Networks/blob/master/Dogs-vs-Cats-classification-CNN-VGG16-Fine-Tuning.ipynb">Dog vs. Cats Classification (Small Dataset) - Fine Tuning (Unfreezing) layers of a Pretrained Network (VGG16)</a> 
 
-
+--------------------------------------------------------------------------------
 
 
 
