@@ -1,4 +1,4 @@
-## Convolutional Neural Networks
+## Deep Learning
 
 ## This repo contains projects using ConvNets: 
 
